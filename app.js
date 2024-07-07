@@ -60,6 +60,3 @@ app.post("/failure", function (req,res) {
 app.listen(process.env.PORT || 3000, function(){
     console.log("Server is running");
 });
-
-// 8ce0f6d7ca1b734d668e8a7657443d8b-us18
-// 48ec472392
