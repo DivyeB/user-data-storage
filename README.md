@@ -1,5 +1,5 @@
 # User Data Storage Form
-NOTE: This is public version of my private repository deployed on render, This doesn't contain any autherization details
+NOTE: This is public version of my private repository deployed on render, This doesn't contain any authorization details
 
 Deployed Link: https://newsletter.mbkp.onrender.com
 
